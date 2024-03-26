@@ -1,0 +1,31 @@
+
+body {
+	background: #222;
+	color: #ccc;
+	font-family: arial;
+	margin: 0;
+	padding: 30px;
+}
+
+h1, h2, h3, h4, h5 {
+	margin-top: 0;
+}
+
+button {
+	padding: 10px 30px;
+	background-color: #070;
+	color: #fff;
+	margin: 10px 0;
+	border: none;
+	border-radius: 6px;
+	cursor: pointer;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+.item {
+	margin: 10px 0;
+	padding:  20px;
+	background-color: #333;
+	cursor: pointer;
+}
